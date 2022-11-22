@@ -15,3 +15,6 @@ console.log(num)
 //git branch  -M main
 //git remote add origin https://github.com/Archana217/javascript.git 
 //git push -u https://github.com/Archana217/javascriptnew.git main 
+
+//   we discuss all important git commands
+//   i am learning javascript  
